@@ -1,66 +1,132 @@
-# <p align="center">👋 Hello, I'm Unnita Karmakar</p>
+# Hi, I'm Unnita Karmakar 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CS+Undergraduate;Systems+%26+Machine+Learning;Research-Driven+Problem+Solving;Building+for+the+Long+Term" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Systems+%26+Machine+Learning;Research-Driven+Problem+Solver;Building+for+Long-Term+Impact" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 About Me
-A CS undergraduate focused on strong computer science fundamentals. I bridge the gap between **low-level systems** and **high-level intelligence**, building steadily with a long-term perspective.
-
-- 🔭 I’m currently working on **VanguardX**
-- 🧠 Learning more about **Distributed Systems & Neural Architectures**
-- ⚡ Fun fact: I name all my major projects with the **"X" suffix**
+## 🧠 About Me
+CS undergraduate focused on **strong computer science fundamentals**.  
+Interested in **systems engineering**, **machine learning**, and **research-oriented problem solving**.  
 
 ---
 
-### 🛠️ Technical Ecosystem
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **ML & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
-| **Systems/Dev** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
-
----
-
-### 📂 Featured Projects
-
-#### 🛡️ [VanguardX](https://github.com/unnkarm/healthdashx)
-*Predictive Health Intelligence*
-> A system using **Random Forest** models to assess physiological readiness via heart rate and $SpO_2$ analysis.
-
-#### 🎯 [JobFitX](https://github.com/unnkarm/jobfitx)
-*Intelligent Matching Engine*
-> NLP-powered engine using **TF-IDF Vectorization** to compute semantic similarity between resumes and roles.
-
-#### 💰 [WalletoX](https://github.com/unnkarm/walletox)
-*Financial Intelligence*
-> Anomaly detection via **Isolation Forest** and spending forecasting through **Linear Regression**.
-
----
-
-### 📊 Activity & Insights
+## 🛠 Technical Stack (Systems View)
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=unnkarm&show_icons=true&theme=vision-glow&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnkarm&layout=compact&theme=vision-glow&hide_border=true" />
+<table align="center">
+<tr>
+<td align="center"><b>Intelligence</b></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Data & Processing</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=matplotlib&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Foundation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
+</td>
+</tr>
+</table>
 </p>
 
-#### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/unnkarm/unnkarm/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:36BCF7&height=2" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/unnita-karmakar-b216a9378" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/unnkarm" target="_blank">
-<img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
-</a>
+## 🚀 Selected Projects
+
+### 🛡️ [VanguardX — Predictive Health Intelligence](https://github.com/unnkarm/healthdashx)
+> A system that analyzes heart rate, SpO₂, and fatigue indicators using **Random Forest models** to estimate recovery timelines and flag physiological anomalies.
+
+🔹 **Focus:** Systems modeling, applied ML  
+🔹 **Techniques:** Feature engineering, ensemble learning  
+🔗 [Live Project](https://vanguardx-mhvdvusptgkamty3zmhy25.streamlit.app/)
+
+---
+
+### 🔍 [JobFitX — NLP-Based Matching Engine](https://github.com/unnkarm/jobfitx)
+> An intelligent job–resume alignment engine using **TF-IDF vectorization** and semantic similarity scoring to identify role-fit and skill gaps.
+
+🔹 **Focus:** NLP fundamentals, information retrieval  
+🔹 **Techniques:** Vector space models  
+🔗 [Live Project](https://jobfitx-rkl95gfptrbivq4p8rvnae.streamlit.app/)
+
+---
+
+### 💰 [WalletoX — Financial Intelligence](https://github.com/unnkarm/walletox)
+> A financial analytics system that monitors spending behavior to detect anomalies and forecast future expenses using Isolation Forest and Linear Regression models.
+
+🔹 **Focus:** Applied machine learning, behavioral data analysis  
+🔹 **Techniques:** Unsupervised anomaly detection, regression-based forecasting  
+🔗 [Live Project](https://walletox-j9ap33kwd5xvaa3eycwcli.streamlit.app/)
+
+---
+
+## 🛰️ Ongoing Research Project
+
+### ISSAS — Intelligent Space Situational Awareness System  
+> An ML-powered system for **orbital anomaly detection**, **collision risk assessment**, and **space object behavior analysis**. Designed at the intersection of **space systems**, **defense intelligence**, and **predictive modeling**.
+
+🔹 **Status:** *Early research & prototyping phase* 🔹 **Domains:** Orbital mechanics, anomaly detection, time-series modeling  
+
+---
+
+## 📊 Development Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unnkarm&theme=minimal&area=true&hide_border=true" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Systems_%26_Space-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Approach-Research_First-success?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">🧩 Problem Solving Practice</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/unnkarm?theme=dark&font=Fira%20Code&ext=activity" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/unn98/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/unnita-karmakar-b216a9378" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/unnkarm" target="_blank">
+    <img src="https://img.shields.io/badge/X-Tech_Updates-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:36BCF7&height=100&section=footer" />
+</p>
+
+
