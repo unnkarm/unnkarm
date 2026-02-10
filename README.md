@@ -100,19 +100,30 @@ Interested in **systems engineering**, **machine learning**, and **research-orie
 
 ---
 
-<h2 align="center">🧩 Problem Solving Practice</h2>
+
+<h2 align="center">🧩 Engineering Metrics & Problem Solving</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/unnkarm?theme=dark&font=Fira%20Code&ext=activity" />
+  <img src="https://leetcard.jacoblin.cool/unn98?theme=dark&font=Fira%20Code&ext=activity" alt="Unnita's LeetCode Stats" />
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/unn98/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile_Access-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/unnkarm/unnkarm/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-Data_Synced-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithm_Efficiency-Optimized-blue?style=flat-square"/>
+</p>
+
 ---
+
 
 ## 📫 Connect with Me
 <p align="center">
