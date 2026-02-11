@@ -80,8 +80,8 @@ Interested in **systems engineering**, **machine learning**, and **research-orie
 
 ## 🛰️ Ongoing Research Project
 
-### ISSAS — Intelligent Space Situational Awareness System  
-> An ML-powered system for **orbital anomaly detection**, **collision risk assessment**, and **space object behavior analysis**. Designed at the intersection of **space systems**, **defense intelligence**, and **predictive modeling**.
+### ISSAS 
+ML system for orbital anomaly detection and collision risk analysis.
 
 🔹 **Status:** *Early research & prototyping phase* 🔹 **Domains:** Orbital mechanics, anomaly detection, time-series modeling  
 
