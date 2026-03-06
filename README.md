@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 CS undergraduate focused on **strong computer science fundamentals**.  
-Interested in **systems engineering**, **machine learning**, and **research-oriented problem solving**.  
+Interested in **system design**, **machine learning**, and **research-oriented problem solving**.  
 
 ---
 
@@ -68,6 +68,17 @@ Interested in **systems engineering**, **machine learning**, and **research-orie
 🔗 [Live Project](https://jobfitx-rkl95gfptrbivq4p8rvnae.streamlit.app/)
 
 ---
+### 🧠 [MindSaathi — Early Cognitive Risk Assessment Platform](https://github.com/unnkarm/MindSaathi.git)
+>A full-stack AI-assisted cognitive screening system that analyzes digital neuropsychological tests to identify early indicators of neurological risk such as MCI and Alzheimer’s.
+
+🔹 Focus: Healthcare AI, cognitive analytics, ML-based risk scoring
+🔹 Techniques: Neuro-test feature extraction, weighted scoring engine, risk classification, RAG-based medical explanation
+
+🔗 Links:-
+🌐 Frontend: https://mind-saathi.vercel.app
+⚙️ Backend : https://mindsaathi-backend.onrender.com
+
+---
 
 ### 💰 [WalletoX — Financial Intelligence](https://github.com/unnkarm/walletox)
 > A financial analytics system that monitors spending behavior to detect anomalies and forecast future expenses using Isolation Forest and Linear Regression models.
@@ -75,15 +86,6 @@ Interested in **systems engineering**, **machine learning**, and **research-orie
 🔹 **Focus:** Applied machine learning, behavioral data analysis  
 🔹 **Techniques:** Unsupervised anomaly detection, regression-based forecasting  
 🔗 [Live Project](https://walletox-j9ap33kwd5xvaa3eycwcli.streamlit.app/)
-
----
-
-## 🛰️ Ongoing Research Project
-
-### ISSAS 
-ML system for orbital anomaly detection and collision risk analysis.
-
-🔹 **Status:** *Early research & prototyping phase* 🔹 **Domains:** Orbital mechanics, anomaly detection, time-series modeling  
 
 ---
 
