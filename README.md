@@ -89,6 +89,15 @@ Interested in **system design**, **machine learning**, and **research-oriented p
 
 ---
 
+### 🎙️ [MeetPilot AI — Meeting Intelligence](https://github.com/unnkarm/meetpilot)
+> An AI-powered meeting assistant that transcribes conversations, generates concise summaries, extracts actionable tasks, and structures follow-ups for teams.
+
+🔹 **Focus:** AI-powered meeting intelligence, NLP, task automation  
+🔹 **Techniques:** Speech-to-text, LLM-based summarization, action-item extraction  
+🔗 [Live Project](https://meetpilot-ai-agent.vercel.app/)
+
+---
+
 ## 📊 Development Activity
 
 <p align="center">
