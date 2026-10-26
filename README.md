@@ -12,6 +12,20 @@ Interested in **machine learning**, and **problem solving**.
 
 ---
 
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://my-site-unnita.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  
+</p>
+
+---
+
+
 ## 🛠 Technical Stack (Systems View)
 
 <p align="center">
