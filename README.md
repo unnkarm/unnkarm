@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 CS undergraduate focused on **computer science fundamentals**.  
-Interested in **machine learning**, and **research-oriented problem solving**.  
+Interested in **machine learning**, and **problem solving**.  
 
 ---
 
