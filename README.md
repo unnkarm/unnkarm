@@ -1,164 +1,186 @@
-# Hi, I'm Unnita Karmakar 👋  
+# Hi, I'm Unnita Karmakar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Systems+%26+Machine+Learning;Research-Driven+Problem+Solver;Building+for+Long-Term+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Machine+Learning+%26+AI;Python+%7C+C%2B%2B+%7C+Java;Building+AI+%26+Software+Projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://my-site-unnita.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/unnkarm">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
-CS undergraduate focused on **computer science fundamentals**.  
-Interested in **machine learning**, and **problem solving**.  
+
+I'm a Computer Science undergraduate interested in **Machine Learning, Deep Learning, and Software Development**.
+
+- Learning and implementing ML/DL algorithms.
+- Building AI-powered applications and data-driven projects.
+- Practising Data Structures and Algorithms.
+- Interested in Computer Vision, NLP, Sports Analytics and Space Technology.
 
 ---
 
+## 💻 Tech Stack
 
-## 🌐 Portfolio
+**Programming Languages**
 
-<p align="center">
-  <a href="https://my-site-unnita.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+**Machine Learning & Deep Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+**Data Science & Computer Vision**
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**Backend & AI Development**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-7057FF?style=for-the-badge" />
+</p>
+
+**Tools & Deployment**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-
-## 🛠 Technical Stack (Systems View)
-
-<p align="center">
-<table align="center">
-<tr>
-<td align="center"><b>Intelligence</b></td>
-<td>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Data & Processing</b></td>
-<td>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=matplotlib&logoColor=black"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Foundation</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-</td>
-</tr>
-</table>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:36BCF7&height=2" />
-</p>
-
----
-
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### 🛡️ [VanguardX — Predictive Health Intelligence](https://github.com/unnkarm/healthdashx)
-> A system that analyzes heart rate, SpO₂, and fatigue indicators using **Random Forest models** to estimate recovery timelines and flag physiological anomalies.
 
-🔹 **Focus:** Systems modeling, applied ML  
-🔹 **Techniques:** Feature engineering, ensemble learning  
-🔗 [Live Project](https://vanguardx-mhvdvusptgkamty3zmhy25.streamlit.app/)
+A machine learning application that analyses heart rate, SpO₂ and fatigue indicators to estimate recovery timelines and detect unusual patterns.
 
----
+- **ML:** Random Forest, Feature Engineering
+- **Libraries:** Scikit-learn, Pandas, NumPy
+- **Deployment:** [Live Demo](https://vanguardx-mhvdvusptgkamty3zmhy25.streamlit.app/)
 
-### 🔍 [JobFitX — NLP-Based Matching Engine](https://github.com/unnkarm/jobfitx)
-> An intelligent job–resume alignment engine using **TF-IDF vectorization** and semantic similarity scoring to identify role-fit and skill gaps.
+### 🔍 [JobFitX — Resume Matching Engine](https://github.com/unnkarm/jobfitx)
 
-🔹 **Focus:** NLP fundamentals, information retrieval  
-🔹 **Techniques:** Vector space models  
-🔗 [Live Project](https://jobfitx-rkl95gfptrbivq4p8rvnae.streamlit.app/)
+An NLP-based application that compares resumes with job descriptions and identifies matching skills and potential gaps.
 
----
-### 🧠 [MindSaathi — Early Cognitive Risk Assessment Platform](https://github.com/unnkarm/MindSaathi.git)
->A full-stack AI-assisted cognitive screening system that analyzes digital neuropsychological tests to identify early indicators of neurological risk such as MCI and Alzheimer’s.
+- **ML/NLP:** TF-IDF, Cosine Similarity
+- **Libraries:** Scikit-learn, Pandas
+- **Deployment:** [Live Demo](https://jobfitx-rkl95gfptrbivq4p8rvnae.streamlit.app/)
 
-🔹 Focus: Healthcare AI, cognitive analytics, ML-based risk scoring
-🔹 Techniques: Neuro-test feature extraction, weighted scoring engine, risk classification, RAG-based medical explanation
+### 🧠 [MindSaathi — Cognitive Assessment Platform](https://github.com/unnkarm/MindSaathi)
 
-🔗 Links:-
-🌐 Frontend: https://mind-saathi.vercel.app
-⚙️ Backend : https://mindsaathi-backend.onrender.com
+A full-stack application that analyses digital cognitive test results and provides risk assessments with AI-generated explanations.
 
----
+- **ML:** Feature Extraction, Risk Classification
+- **AI:** RAG, LLM-based explanations
+- **Frontend:** [Live Demo](https://mind-saathi.vercel.app/)
+- **Backend:** [API](https://mindsaathi-backend.onrender.com/)
 
-### 💰 [WalletoX — Financial Intelligence](https://github.com/unnkarm/walletox)
-> A financial analytics system that monitors spending behavior to detect anomalies and forecast future expenses using Isolation Forest and Linear Regression models.
+*An exploratory screening tool, not a medical diagnostic system.*
 
-🔹 **Focus:** Applied machine learning, behavioral data analysis  
-🔹 **Techniques:** Unsupervised anomaly detection, regression-based forecasting  
-🔗 [Live Project](https://walletox-j9ap33kwd5xvaa3eycwcli.streamlit.app/)
+### 💰 [WalletoX — Financial Analytics](https://github.com/unnkarm/walletox)
 
----
+A financial analytics application that tracks spending patterns, detects unusual transactions and forecasts expenses.
 
-### 🎙️ [MeetPilot AI — Meeting Intelligence](https://github.com/unnkarm/meetpilot)
-> An AI-powered meeting assistant that transcribes conversations, generates concise summaries, extracts actionable tasks, and structures follow-ups for teams.
+- **ML:** Isolation Forest, Linear Regression
+- **Libraries:** Scikit-learn, Pandas, NumPy
+- **Deployment:** [Live Demo](https://walletox-j9ap33kwd5xvaa3eycwcli.streamlit.app/)
 
-🔹 **Focus:** AI-powered meeting intelligence, NLP, task automation  
-🔹 **Techniques:** Speech-to-text, LLM-based summarization, action-item extraction  
-🔗 [Live Project](https://meetpilot-ai-agent.vercel.app/)
+### 🎙️ [MeetPilot AI — Meeting Assistant](https://github.com/unnkarm/meetpilot)
+
+An AI-powered meeting assistant that transcribes conversations, generates summaries and extracts action items.
+
+- **AI/NLP:** Speech-to-Text, LLM Summarization
+- **Backend:** FastAPI, WebSockets
+- **Deployment:** [Live Demo](https://meetpilot-ai-agent.vercel.app/)
 
 ---
 
-## 📊 Development Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unnkarm&theme=minimal&area=true&hide_border=true" width="95%" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unnkarm&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Systems_%26_Space-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Approach-Research_First-success?style=for-the-badge"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unnkarm&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unnkarm&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unnkarm&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unnkarm&theme=github_dark&timeZone=Asia/Kolkata" />
 </p>
 
 ---
 
-
-<h2 align="center">🧩 Engineering Metrics & Problem Solving</h2>
+## 🧩 Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/unn98?theme=dark&font=Fira%20Code&ext=activity" alt="Unnita's LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/unn98?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/unn98/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile_Access-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/unn98/">
+    <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🔬 Areas of Interest
+
+- Machine Learning & Deep Learning
+- Computer Vision
+- Natural Language Processing
+- AI for Sports Analytics
+- Satellite Imagery & Earth Observation
+- Algorithms & Data Structures
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/unnita-karmakar-b216a9378">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/unnkarm">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:unnitakarmakar2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/unnkarm/unnkarm/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Status-Data_Synced-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Algorithm_Efficiency-Optimized-blue?style=flat-square"/>
-</p>
-
----
-
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/unnita-karmakar-b216a9378" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/unnkarm" target="_blank">
-    <img src="https://img.shields.io/badge/X-Tech_Updates-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <i>Always learning, building and improving.</i>
 </p>
 
 <p align="center">
