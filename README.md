@@ -180,7 +180,7 @@ An AI-powered meeting assistant that transcribes conversations, generates summar
 </p>
 
 <p align="center">
-  <i>Always learning, building and improving.</i>
+  <i>learning, building and improving.</i>
 </p>
 
 <p align="center">
